@@ -1,3 +1,7 @@
+//Author : Kalyan Pingali
+//Date : August 6th 2017
+//Contact : pnglkalyan@gmail.com
+
 #include <stdio.h>
 #include <stdlib.h>
 
